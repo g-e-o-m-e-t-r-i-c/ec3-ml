@@ -1,0 +1,4 @@
+Lesson 4: Generative Models
+
+Theory: Introduction to generative models and their use in tasks such as image and speech synthesis, and data augmentation. Types of generative models: variational autoencoders (VAEs), generative adversarial networks (GANs), and autoregressive models
+Hands-on: Implement a simple generative model such as a VAE or GAN using a deep learning framework and train it on a dataset of images or audio recordings. Discuss the intuition behind each type of generative model and the challenges of training them. Also, introduce techniques such as adversarial training and regularization to improve performance. Finally, evaluate the generated samples using metrics such as inception score and human evaluation.
